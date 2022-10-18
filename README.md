@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @MikleDen
-- 👀 I’m interested in WEBsite coding (with HTML,CSS, SCSS, Flex-box , Grid, Adaptive/responsive/mobile...)
+- 👀 I’m interested in WEBsite coding (with JS, React ,HTML,CSS, SCSS, Flex-box , Grid, Adaptive/responsive/mobile...)
 - 🌱 I’m currently learning JavaScript & React.js.
-- 💞️ I’m looking to collaborate on  HTML coder position , or Jr. Front-end now.
+- 💞️ I’m looking to collaborate on  Trainee/Junior Front-end dev. position.
 - 📫 How to reach me:
   -email: muxacb9017@gmail.com
   -Telegram/Viber: +380968143983
