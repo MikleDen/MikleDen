@@ -5,7 +5,7 @@
 - 📫 How to reach me:
   -email: muxacb9017@gmail.com
   -Telegram/Viber: +380968143983
-  -LinkedIn:https://www.linkedin.com/in/міша-денисюк-0872a5179
+  -LinkedIn:https://www.linkedin.com/in/mykhailo-denysiuk-0872a5179/
 
 <!---
 MikleDen/MikleDen is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
